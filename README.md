@@ -1,4 +1,5 @@
 # hello-world
-first repository
 
-done because tutorial told me to do so
+interesting things to read/do:
+
+https://guides.github.com/
